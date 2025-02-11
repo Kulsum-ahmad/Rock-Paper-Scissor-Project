@@ -24,7 +24,7 @@ let intervalId;
 
 //};
 
-document.querySelector('.js-auto-play-button')
+document.querySelector('.js-auto-play')
   .addEventListener('click', () => {
     autoPlay();
   });
